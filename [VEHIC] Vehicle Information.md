@@ -38,8 +38,6 @@ Notes:
 
 ### Heavy Duty Haulers (Strength & Capacity):
 
-Armored Military Truck: (Powerful but Maintenance Hungry)
-
 - Common Breakdowns:
   - Flat Tire: Large tires are less frequent to puncture but require specialized tools to change.
   - Overheating: Clogged radiator due to dust buildup or excessive load on the engine can cause overheating.
@@ -57,44 +55,27 @@ Armored Military Truck: (Powerful but Maintenance Hungry)
 
 ### Unique Scavenger Finds:
 
-Abandoned School Bus: (Spacious but Resource-Draining)
+- Common Breakdowns:
+  - Multiple Flat Tires: Due to the number of wheels, the chance of encountering a flat tire is higher. (Refer to "Flat Tire" fixes mentioned earlier).
+  - Dead Battery: The large battery required for a bus can be difficult to replace.
+  - Suspension Problems: Overloading the bus can damage the suspension system, impacting handling and ride quality.
 
-Common Breakdowns:
+- Scavenger Fixes (Limited):
 
-Multiple Flat Tires: Due to the number of wheels, the chance of encountering a flat tire is higher. (Refer to "Flat Tire" fixes mentioned earlier).
+  - Multiple Flat Tires: The larger number of tires increases the time and resources needed for repairs.
+  - Dead Battery: Finding a replacement large battery would be extremely difficult. Jury-rigging a jump start from multiple smaller batteries might be a risky attempt.
+  - Suspension Problems: Reinforcing or replacing suspension parts could be attempted with scavenged metal and tools, but the success would depend on the severity of the damage and the scavenger's skill.
+  - Storage: Massive interior space for storage or conversion into living quarters. Can tow trailers for additional cargo.
 
-Dead Battery: The large battery required for a bus can be difficult to replace.
+- Notes:
+  - School buses offer exceptional passenger and cargo capacity, potentially serving as a mobile base.
+  - Their size and weight make them slow, loud, and fuel-hungry.
 
-Suspension Problems: Overloading the bus can damage the suspension system, impacting handling and ride quality.
-
-Scavenger Fixes (Limited):
-
-Multiple Flat Tires: The larger number of tires increases the time and resources needed for repairs.
-
-Dead Battery: Finding a replacement large battery would be extremely difficult. Jury-rigging a jump start from multiple smaller batteries might be a risky attempt.
-
-Suspension Problems: Reinforcing or replacing suspension parts could be attempted with scavenged metal and tools, but the success would depend on the severity of the damage and the scavenger's skill.
-
-Storage: Massive interior space for storage or conversion into living quarters. Can tow trailers for additional cargo.
-
-Notes:
-
-School buses offer exceptional passenger and cargo capacity, potentially serving as a mobile base.
-
-Their size and weight make them slow, loud, and fuel-hungry.
-
-Workhorse Tractor (Towing & Potential Farming):
-
-Pros: Excellent towing capacity for hauling large trailers or salvaged equipment.
-
-Cons: Limited passenger capacity (usually just the driver), slow speed.
-
-Initial Use: Primarily for towing in the early game.
-
-Later Uses (with Upgrades): Can be used for plowing fields, planting crops, and potentially even limited harvesting with creative modifications.
-
-Breakdowns: While generally reliable, tractors can suffer from engine trouble, flat tires, and issues with belts or attachments.
-
-Scavenger Fixes: Many tractor parts are repairable with basic tools and scavenged metal. Finding replacement tires might be challenging but possible.
-
-Notes: Tractors are invaluable for establishing a sustainable base in the long term. Their versatility makes them a strategic long-term investment.
+- Workhorse Tractor (Towing & Potential Farming):
+  - Pros: Excellent towing capacity for hauling large trailers or salvaged equipment.
+  - Cons: Limited passenger capacity (usually just the driver), slow speed.
+  - Initial Use: Primarily for towing in the early game.
+  - Later Uses (with Upgrades): Can be used for plowing fields, planting crops, and potentially even limited harvesting with creative modifications.
+  - Breakdowns: While generally reliable, tractors can suffer from engine trouble, flat tires, and issues with belts or attachments.
+  - Scavenger Fixes: Many tractor parts are repairable with basic tools and scavenged metal. Finding replacement tires might be challenging but possible.
+  - Notes: Tractors are invaluable for establishing a sustainable base in the long term. Their versatility makes them a strategic long-term investment.
