@@ -1,4 +1,4 @@
- - Implement a dynamic camera system that allows players to seamlessly switch between first person and third person perspectives.
+  - Implement a dynamic camera system that allows players to seamlessly switch between first person and third person perspectives.
  - Provide customizable camera settings to cater to different player preferences for field of view, distance, and angle.
  - Integrate smooth transition animations when switching between the two camera perspectives for a polished user experience.
  - Offer in-game tutorials or prompts to educate players on how to effectively utilize each camera perspective for various gameplay scenarios.
